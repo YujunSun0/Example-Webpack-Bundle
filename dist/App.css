@@ -1,3 +1,6 @@
+/*!***************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/App.css ***!
+  \***************************************************************/
 *{
   box-sizing: border-box;
 }
@@ -66,3 +69,5 @@ body{
   justify-content: center;
   align-items: center;
 }
+
+/*# sourceMappingURL=App.css.map*/
